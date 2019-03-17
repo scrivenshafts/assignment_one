@@ -2,7 +2,7 @@
 
 A Hello World! for Rust.
 
-[![Build Status](https://travis-ci.org/yngtodd/assignment_one.svg?branch=master)](https://travis-ci.org/yngtodd/assignment_one)
+[![Build Status](https://travis-ci.org/scrivenshafts/assignment_one.svg?branch=master)](https://travis-ci.org/yngtodd/assignment_one)
 [![crates.io](https://img.shields.io/crates/v/assignment_one.svg)](https://crates.io/crates/assignment_one)
 
 ## Getting started
