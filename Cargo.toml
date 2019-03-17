@@ -1,0 +1,6 @@
+[package]
+name = "assignment_one"
+version = "0.1.0"
+authors = ["Todd Young <young.todd.mk@gmail.com>"]
+
+[dependencies]
